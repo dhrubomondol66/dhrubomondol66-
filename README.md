@@ -9,7 +9,7 @@ I'm a software developer focused on web development and machine learning. Passio
 - Tools & Technologies: Git, Docker, MySQL
 
 ## Projects
-- [Medical Appointment System](https://github.com/dhrubomondol66/PHP-code)
+- [Doc-APP System](https://github.com/dhrubomondol66/PHP-code)
 - [Potato Leaf Disease Detection](https://github.com/dhrubomondol66/potato-leaf-disease)
 
 ## Contact
